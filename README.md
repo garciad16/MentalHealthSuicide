@@ -15,3 +15,5 @@
   - b. Human Resources available per country selected (Per population of 100,000)
   - c. Average Suicide rates among both sexes in all countries per 100,000
   - d. Suicide Rates per age groups
+
+Final product: https://public.tableau.com/app/profile/daniel.garcia2005/viz/SuicideAndResources/Dashboard1
