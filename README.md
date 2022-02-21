@@ -1,4 +1,4 @@
-# MentalHealth and Suicide
+# Mental Health and Suicide
 
 - Took data sets from Kaggle regarding Mental Health and Suicide Rates in 2016: https://www.kaggle.com/twinkle0705/mental-health-and-suicide-rates
 - 1. First collected and cleaned up data in Excel
