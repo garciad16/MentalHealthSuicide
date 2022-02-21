@@ -10,7 +10,7 @@
   - d. Get total suicide rates from all ages for Males (CrudeSuicideRates, per population of 100,000)
   - e. Get total suicide rates from all ages for Females (CrudeSuicideRates, per population of 100,000)
   - f. Get total facilities and human resources per country (Per population of 100,000)
- - 4. Exported those queries results into an excel file and imported to Tableau with the widgets:
+- 4. Exported those queries results into an excel file and imported to Tableau with the widgets:
   - a. Total Resources/Facilities per 100,000
   - b. Human Resources available per country selected (Per population of 100,000)
   - c. Average Suicide rates among both sexes in all countries per 100,000
