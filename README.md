@@ -2,7 +2,7 @@
 
 - Took data sets from Kaggle regarding Mental Health and Suicide Rates in 2016: https://www.kaggle.com/twinkle0705/mental-health-and-suicide-rates
 - 1. First collected and cleaned up data in Excel
-- 2. Created database in SQL with three excel files: CrudeSuicideRates, Facilities and Human Resources. Theses three excel files would to be converted into three tables in the database
+- 2. Created database in SQL with three excel files: CrudeSuicideRates, Facilities and Human Resources. These three excel files would to be converted into three tables in the database
 - 3. Created six queries to be used in Tableau:
   - a. CrudeSuicideRates file
   - b. Facilities file
